@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.Hello{
+    text-shadow: 5px 5px 5px red;
+}
+.world{
+    color: white;
+    text-shadow: 5px 5px 5px red;
+}
+.three{
+    color: navy;
+    text-shadow: 2px 2px 4px red;
+}
+.multi{
+    color: white;
+    text-shadow: 0px 0px 5px red;
+}

@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+#all{
+    position: relative;
+    width: 700px;
+    height: 460px;
+    background-color:white;
+    padding: 48px;
+    position: relative;
+    border: 1px solid gray;
+    margin: calc(10% - -100px);
+}
+#made{
+    font-size: 25px;
+    margin-bottom: 50px
+}
+.nm{
+    display: inline-block;
+    border-color:gray;
+    border-width: 2px;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    margin-bottom: 30px;
+    height: 25px;
+}
+
+#email{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    width: 240px;
+    height: 25px;
+    border-color: gray;
+}
+#mail{
+    border: 1px solid gray;
+    border-width:2px;
+    font-size: 14px;
+    padding: 5px;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+
+}
+#tjfaud{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration-line: none;
+    color: darkturquoise;
+}
+#pwd{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-color:gray;
+    height: 25px;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+#tjfaud2{
+    font-size: 13px;
+    font-weight: bold;
+}
+#eotls{
+    display: inline-box;
+    color: darkturquoise;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+#eotls2{
+    margin-right: 180px;
+    margin-top: 20px;
+}
+input[type=button]{
+    background-color: steelblue;
+    width: 70px;
+    height: 40px;
+    font-weight: bold;
+    color: white;
+}
+#img{
+    position: absolute;
+    left: 450px;
+    top: 30px;
+}
+#tjfaud3{
+    position: absolute;
+    left: 490px;
+    top: 350px
+}

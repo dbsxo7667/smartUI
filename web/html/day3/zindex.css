@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+div{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+div:nth-child(even){
+    background-color: red;
+}
+div:nth-child(odd){
+    background-color:blue;
+}
+#one{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: palegreen;
+}
+#two{
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    background-color: yellow;
+}
+#three{
+    position: absolute;
+    top: 50px;
+    left: 90px; 
+    background-color: green;
+    z-index: 2;
+}
+#four{
+    position: absolute;
+    top: 50px; 
+    left: 110px;
+    background-color: fuchsia;
+}
+#five{
+    position: absolute;
+    top: 50px; 
+    left: 110px;
+    background-color: red;
+}
